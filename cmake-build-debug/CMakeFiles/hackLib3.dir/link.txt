@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libhackLib3.so -o libhackLib3.so CMakeFiles/hackLib3.dir/library.cpp.o CMakeFiles/hackLib3.dir/justanystupidthing.cpp.o 

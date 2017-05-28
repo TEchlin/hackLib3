@@ -1,0 +1,2 @@
+#
+# FindHACKLIB3.cmake:  If find_package(HACKLIB3) can find this file, it will run it.
